@@ -1,0 +1,13 @@
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\bin\Debug\netcoreapp3.1\atividadeherança.exe
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\bin\Debug\netcoreapp3.1\atividadeherança.deps.json
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\bin\Debug\netcoreapp3.1\atividadeherança.runtimeconfig.json
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\bin\Debug\netcoreapp3.1\atividadeherança.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\bin\Debug\netcoreapp3.1\atividadeherança.dll
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\bin\Debug\netcoreapp3.1\atividadeherança.pdb
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.dll
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.pdb
+C:\Users\Marcos\source\repos\atividadeherança\atividadeherança\obj\Debug\netcoreapp3.1\atividadeherança.genruntimeconfig.cache
